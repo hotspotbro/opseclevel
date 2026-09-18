@@ -54,6 +54,7 @@ Decode $P$ as UTF-8. That's the message.
   whose factors were destroyed by the puzzle's creator. This is a pure time-delay
   mechanism, not a cryptographic riddle with a clever shortcut.
 
+— **Also there is no financial incentive here.Take note**
 ## Reference
 
 Rivest, R., Shamir, A., and Wagner, D. (1996). *Time-lock Puzzles and Timed-release
